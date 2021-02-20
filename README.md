@@ -21,6 +21,8 @@
   <p align="center">
     A assitant who can manage and understand user command like "switch on bedroom light".
     <br />
+    Based on a Domain Specific Language 
+    <br />
     Using Hexagonal Architecture, Unit Tests, Integration Tests, Interpreter Design Pattern, Builder Desgin Pattern
     <br />
     <a href="https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5"><strong>Explore the docs »</strong></a>
@@ -72,6 +74,14 @@
 [Net5](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
 
 
+### Respect
+
+[Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/)
+[DSL](https://martinfowler.com/dsl.html)
+[Builder Design Pattern](https://refactoring.guru/design-patterns/builder)
+[Interpreter Design Pattern](https://sourcemaking.com/design_patterns/interpreter)
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -93,18 +103,10 @@ Use the console application to write your command, like :
 - ...
 
 
-<!-- ROADMAP 
-## Roadmap
-
-See the [open issues](https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5/issues) for a list of proposed features (and known issues).
--->
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
@@ -113,24 +115,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Romain Lagardette - [@RomainLgrdt](https://twitter.com/RomainLgrdt) - lagardette.romain.pro@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
 
 
 
