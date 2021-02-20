@@ -19,11 +19,11 @@
   <h3 align="center">Alexoogle-Assistant-DSL-Hexagonal-Net5</h3>
 
   <p align="center">
-    A assitant who can manage and understand user command like "switch on bedroom light".
+    A assitant who can manage elements of an house and understand user command like "switch on bedroom light".
     <br />
     Based on a Domain Specific Language 
     <br />
-    Using Hexagonal Architecture, Unit Tests, Integration Tests, Interpreter Design Pattern, Builder Desgin Pattern
+    Using Hexagonal Architecture, Unit Tests, Integration Tests, Interpreter Design Pattern, Builder Desgin Pattern, Dependency Injection.
     <br />
     <a href="https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5"><strong>Explore the docs »</strong></a>
     <br />
@@ -69,6 +69,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/1fZD0D7/Capture.png)
 
 
+
 ### Built With
 
 [Net5](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
@@ -88,6 +89,7 @@
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
+
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -96,6 +98,10 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+### Manage elements of an house.
+Use fluent interface ( builder, method chaining, extensions ) to create elements, rooms and housing. 
+
+### Interpret commands
 Use the console application to write your command, like :
 - "switch on bedroom ceiling now"
 - "switch off kitchen fridge please"
