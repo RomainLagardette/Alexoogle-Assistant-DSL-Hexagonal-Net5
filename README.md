@@ -66,7 +66,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/1fZD0D7/Capture.png)
+[![Product][product-screenshot]](https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/blob/master/images/demo1.PNG)
 
 
 
@@ -107,6 +107,8 @@ Use the console application to write your command, like :
 - "switch off kitchen fridge please"
 - "is bathroom mirror on ?"
 - ...
+[![Switch case][product-screenshot]](https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/blob/master/images/demo2.PNG)
+[![Is case][product-screenshot]](https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/blob/master/images/demo3.PNG)
 
 
 <!-- LICENSE -->
@@ -138,4 +140,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ro
 [license-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/romain-lagardette/
-[product-screenshot]: https://i.ibb.co/1fZD0D7/Capture.png
+[product-screenshot]: https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/blob/master/images/demo1.PNG
