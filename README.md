@@ -46,6 +46,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Respect principles</a></li>
       </ul>
     </li>
     <li>
@@ -74,7 +75,7 @@
 [Net5](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
 
 
-### Respect
+### Respect principles
 
 - [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/)
 - [DSL](https://martinfowler.com/dsl.html)
