@@ -61,17 +61,15 @@
 
 
 
-<!-- ABOUT THE PROJECT
+<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/1fZD0D7/Capture.png)
 
 
-
 ### Built With
 
-* [Net5](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
- -->
+[Net5](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five)
 
 
 <!-- GETTING STARTED -->
@@ -83,8 +81,6 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-
- -->
 
 
 <!-- USAGE EXAMPLES -->
