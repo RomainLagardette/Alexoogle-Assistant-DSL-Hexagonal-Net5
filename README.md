@@ -76,10 +76,10 @@
 
 ### Respect
 
-[Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/)
-[DSL](https://martinfowler.com/dsl.html)
-[Builder Design Pattern](https://refactoring.guru/design-patterns/builder)
-[Interpreter Design Pattern](https://sourcemaking.com/design_patterns/interpreter)
+- [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/)
+- [DSL](https://martinfowler.com/dsl.html)
+- [Builder Design Pattern](https://refactoring.guru/design-patterns/builder)
+- [Interpreter Design Pattern](https://sourcemaking.com/design_patterns/interpreter)
 
 
 <!-- GETTING STARTED -->
@@ -132,4 +132,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ro
 [license-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/romain-lagardette/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://i.ibb.co/1fZD0D7/Capture.png
