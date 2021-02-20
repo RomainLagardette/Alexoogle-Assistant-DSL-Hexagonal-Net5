@@ -16,7 +16,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>-->
 
-  <h3 align="center">Alexoogle-Assistant-Hexagonal-Net5</h3>
+  <h3 align="center">Alexoogle-Assistant-DSL-Hexagonal-Net5</h3>
 
   <p align="center">
     A assitant who can manage and understand user command like "switch on bedroom light".
@@ -25,14 +25,14 @@
     <br />
     Using Hexagonal Architecture, Unit Tests, Integration Tests, Interpreter Design Pattern, Builder Desgin Pattern
     <br />
-    <a href="https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5">View Demo</a>
+    <a href="https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5">View Demo</a>
     ·
-    <a href="https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5/issues">Report Bug</a>
+    <a href="https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5/issues">Request Feature</a>
+    <a href="https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/issues">Request Feature</a>
   </p>
 </p>
 
@@ -114,22 +114,22 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Romain Lagardette - [@RomainLgrdt](https://twitter.com/RomainLgrdt) - lagardette.romain.pro@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badg
-[contributors-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5/graphs/contributors
+[contributors-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5/network/members
+[forks-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5/stargazers
+[stars-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5/issues
+[issues-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-Hexagonal-Net5/blob/master/LICENSE.txt
+[license-url]: https://github.com/RomainLagardette/Alexoogle-Assistant-DSL-Hexagonal-Net5/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/romain-lagardette/
 [product-screenshot]: https://i.ibb.co/1fZD0D7/Capture.png
