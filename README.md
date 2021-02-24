@@ -19,7 +19,7 @@
   <h3 align="center">Alexoogle-Assistant-DSL-Hexagonal-Net5</h3>
 
   <p align="center">
-    A assitant who can manage elements of an house and understand user command like "switch on bedroom light".
+    A assistant who can manage elements of an house and understand user command like "switch on bedroom light".
     <br />
     Based on a Domain Specific Language 
     <br />
